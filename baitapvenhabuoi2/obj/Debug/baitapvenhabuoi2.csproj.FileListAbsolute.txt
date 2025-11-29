@@ -1,0 +1,10 @@
+C:\Users\anhki\source\repos\baitapvenhabuoi2\bin\Debug\baitapvenhabuoi2.exe.config
+C:\Users\anhki\source\repos\baitapvenhabuoi2\bin\Debug\baitapvenhabuoi2.exe
+C:\Users\anhki\source\repos\baitapvenhabuoi2\bin\Debug\baitapvenhabuoi2.pdb
+C:\Users\anhki\source\repos\baitapvenhabuoi2\obj\Debug\baitapvenhabuoi2.csproj.AssemblyReference.cache
+C:\Users\anhki\source\repos\baitapvenhabuoi2\obj\Debug\baitapvenhabuoi2.Form1.resources
+C:\Users\anhki\source\repos\baitapvenhabuoi2\obj\Debug\baitapvenhabuoi2.Properties.Resources.resources
+C:\Users\anhki\source\repos\baitapvenhabuoi2\obj\Debug\baitapvenhabuoi2.csproj.GenerateResource.cache
+C:\Users\anhki\source\repos\baitapvenhabuoi2\obj\Debug\baitapvenhabuoi2.csproj.CoreCompileInputs.cache
+C:\Users\anhki\source\repos\baitapvenhabuoi2\obj\Debug\baitapvenhabuoi2.exe
+C:\Users\anhki\source\repos\baitapvenhabuoi2\obj\Debug\baitapvenhabuoi2.pdb
