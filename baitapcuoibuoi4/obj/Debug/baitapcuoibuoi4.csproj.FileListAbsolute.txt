@@ -1,0 +1,11 @@
+C:\Users\anhki\source\repos\baitapcuoibuoi4\bin\Debug\baitapcuoibuoi4.exe.config
+C:\Users\anhki\source\repos\baitapcuoibuoi4\bin\Debug\baitapcuoibuoi4.exe
+C:\Users\anhki\source\repos\baitapcuoibuoi4\bin\Debug\baitapcuoibuoi4.pdb
+C:\Users\anhki\source\repos\baitapcuoibuoi4\obj\Debug\baitapcuoibuoi4.csproj.AssemblyReference.cache
+C:\Users\anhki\source\repos\baitapcuoibuoi4\obj\Debug\baitapcuoibuoi4.Form1.resources
+C:\Users\anhki\source\repos\baitapcuoibuoi4\obj\Debug\baitapcuoibuoi4.Nhân_viên.resources
+C:\Users\anhki\source\repos\baitapcuoibuoi4\obj\Debug\baitapcuoibuoi4.Properties.Resources.resources
+C:\Users\anhki\source\repos\baitapcuoibuoi4\obj\Debug\baitapcuoibuoi4.csproj.GenerateResource.cache
+C:\Users\anhki\source\repos\baitapcuoibuoi4\obj\Debug\baitapcuoibuoi4.csproj.CoreCompileInputs.cache
+C:\Users\anhki\source\repos\baitapcuoibuoi4\obj\Debug\baitapcuoibuoi4.exe
+C:\Users\anhki\source\repos\baitapcuoibuoi4\obj\Debug\baitapcuoibuoi4.pdb
